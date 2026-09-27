@@ -27,5 +27,4 @@ Custom web application for managing business operations.
 
 ## 📫 Contact
 
-- LinkedIn: ...
-- Email: ...
+- Email: rahimpouramir23@gmail.com
